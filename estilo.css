@@ -1,0 +1,54 @@
+body{
+     background-color: #f8d7da;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+iframe{
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.contenedor{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h1{
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h2{
+    color: deeppink;
+    border-bottom: 2px solid pink;
+    padding-bottom: 5px;
+}
+
+p{
+    font-size: 18px;
+}
+
+ul{
+    font-size: 18px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+a{
+    color: purple;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a:hover{
+    color: hotpink;
+}
